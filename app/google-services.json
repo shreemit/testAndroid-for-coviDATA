@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933245446064",
+    "firebase_url": "https://covidata2.firebaseio.com",
+    "project_id": "covidata2",
+    "storage_bucket": "covidata2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933245446064:android:d04cf90c438474eba31875",
+        "android_client_info": {
+          "package_name": "com.example.covidata2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933245446064-l4u6l0kis6fqbf3dm52ct9oidgvtlcvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidata2",
+            "certificate_hash": "3f7998d17dad59874f31fccbd2f21b814c371196"
+          }
+        },
+        {
+          "client_id": "933245446064-asff1i08t4olhrtfsr88ogp8q82tgspo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7AerU5Z0xQ2MiT51dcbccjjnos7qhyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933245446064-asff1i08t4olhrtfsr88ogp8q82tgspo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
